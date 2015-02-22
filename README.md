@@ -2,7 +2,7 @@
 **diff-pdf GUI** is a simple launcher for **diff-pdf** (by [Václav Slavík](https://github.com/vslavik))
 
 ## Download binaries
-Binaries for Windows can be found [here](http://dev.otmax.fr/diff-pdf_GUI.exe).
+Binaries for Windows can be found [here](http://dev.otmax.fr/diff-pdf_GUI.zip).
 It also includes the original diff-pdf binaries.
 
 ## Usage
