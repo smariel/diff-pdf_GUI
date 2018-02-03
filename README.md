@@ -11,7 +11,7 @@ It also includes the original diff-pdf binaries.
 - Select a destination file
 - Optionaly, check the box to automaticly open the result file after comparison
 
-![diff-pdf GUI Screenshot](http://www.otmax.fr/images/img/upload/big/1424612522.png)
+![diff-pdf GUI Screenshot](https://img.otmax.fr/img/upload/big/1424612522.png)
 
 ## Compiling from sources
 Since **diff-pdf GUI** is made with the Qt framework, it can be compiled for all supported platforms.
